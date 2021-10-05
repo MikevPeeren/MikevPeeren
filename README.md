@@ -16,13 +16,23 @@ Here are some ideas to get you started:
 -->
 
 
-💻 About Me:
+💬 About Me:
 
-I currently work for Blink, a company that specializes in online platforms for primary and secondary education. My job is maintaining and developing the educational and innovative modules used on these platforms. The front-end is written in React, while the back-end is written in Node.js. In my leisure time I try to hone my developer skills with various projects which you can see on my Github and GitLab. I'm mostly interested in novel technologies and techniques, for example I recently have delved into Next.js and Kubernetes.
+Young people need freedom and flexibility. They like to work, but at times that suit them. With the world in their pocket, they are always on and they are everywhere in no time. Working on demand suits their needs, and we at YoungOnes respond to that.
+ 
+I work as a Frontend Developer at YoungOnes, the digital platform where you can book an on-call worker for your day job within 5 minutes. With freelancers throughout the Netherlands, you as a client are always and everywhere quickly provided with flexible staff.
+
+
+💻 Tech Stack
+- React.js
+- Next.js
+- React Query 
+- TailwindCSS
+- Sass
 
 📫 How to reach/contact me: 
 
-- https://mikevpeeren.nl
+- https://www.mikevpeeren.nl
 - https://www.linkedin.com/in/mikevpeeren/
 
 🔭 To the moon and beyond
