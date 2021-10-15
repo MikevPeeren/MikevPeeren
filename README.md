@@ -17,22 +17,18 @@ Here are some ideas to get you started:
 
 
 💬 About Me:
-
-Young people need freedom and flexibility. They like to work, but at times that suit them. With the world in their pocket, they are always on and they are everywhere in no time. Working on demand suits their needs, and we at YoungOnes respond to that.
  
-I work as a Frontend Developer at YoungOnes, the digital platform where you can book an on-call worker for your day job within 5 minutes. With freelancers throughout the Netherlands, you as a client are always and everywhere quickly provided with flexible staff.
+I work as a Frontend Developer at [YoungOnes](https://youngones.com/]), the digital platform where you can book an on-call worker for your day job within 5 minutes. With freelancers throughout the Netherlands, you as a client are always and everywhere quickly provided with flexible staff. The Frontend is built in React.js with a transition towards Next.js. Our state management is in React Query and for our styling we use SASS combined with TailwindCSS.
 
+🌱 I’m currently learning ...
 
-💻 Tech Stack
-- React.js
-- Next.js
-- React Query 
-- TailwindCSS
-- Sass
+More about styling and developing cool frontend components. I am using [Frontend Mentor](https://www.frontendmentor.io/) for this as they provide fully designed components which I can then program. 
 
 📫 How to reach/contact me: 
 
-- https://www.mikevpeeren.nl
-- https://www.linkedin.com/in/mikevpeeren/
+- Website - [Mike van Peeren](https://mikevpeeren.nl/)
+- Linkedin - [@MikevPeeren](https://www.linkedin.com/in/mikevpeeren/)
+- Github - [@MikevPeeren](https://www.github.com/MikevPeeren)
+- GitLab - [@MikevPeeren](https://www.gitlab.com/MikevPeeren)
 
 🔭 To the moon and beyond
