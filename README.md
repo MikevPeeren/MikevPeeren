@@ -22,7 +22,7 @@ I work as a Frontend Developer at [YoungOnes](https://youngones.com/]), the digi
 
 🌱 I’m currently learning ...
 
-More about styling and developing cool frontend components. I am using [Frontend Mentor](https://www.frontendmentor.io/) for this as they provide fully designed components which I can then program. 
+More about styling and developing cool frontend components. I am using [Frontend Mentor](https://www.frontendmentor.io/) for this as they provide fully designed components which I can then code into a working application. 
 
 📫 How to reach/contact me: 
 
