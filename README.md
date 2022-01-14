@@ -57,7 +57,7 @@ I work as a Frontend Developer at [YoungOnes](https://youngones.com/]), the digi
 
 <p align="center">
 <a href="https://github.com/mikevpeeren">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mikevpeeren&count_private=true&show_icons=true&theme=onedark" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mikevpeeren&count_private=true&show_icons=true&theme=onedark" />
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mikevpeeren&theme=onedark&layout=compact&langs_count=10" />
 </a>
 </p>
