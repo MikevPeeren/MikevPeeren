@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mike ✨</h1>
 
-<h2 align="center">I'm a Frontend Developer living in The Netherlands.</h3>
+<h2 align="center">I'm a Frontend Developer living in The Netherlands.</h2>
 
 <br />
 
