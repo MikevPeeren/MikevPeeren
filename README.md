@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Mike ✨</h1>
 
-<h2 align="center">I'm a Frontend Developer living in The Netherlands.</h2>
+<h2 align="center">I'm a Lead Frontend Developer living in The Netherlands.</h2>
 
 <br />
 
-- 🌱 I’m currently learning TailwindCSS, Next.js & Vercel.
+- 🌱 I’m currently learning Next.js.
 - 👨‍👩‍👧 I love my family, gaming and barbecuing.
-- 👉 Currently working on projects from [Frontend Mentor](https://www.frontendmentor.io/)
 - 📫 You can connect with me on [Linkedin](https://www.linkedin.com/in/mikevpeeren/)
 - ⭐ Find me on:
    - Website - [Mike van Peeren](https://mikevpeeren.nl/)
@@ -15,7 +14,7 @@
 
 ## About me
  
-I work as a Frontend Developer at [YoungOnes](https://youngones.com/]), the digital platform where you can book an on-call worker for your day job within 5 minutes. With freelancers throughout the Netherlands, you as a client are always and everywhere quickly provided with flexible staff. The Frontend is built in React.js with a transition towards Next.js. Our state management is in React Query and for our styling we use SASS combined with TailwindCSS.
+I work as a Lead Frontend Developer at [YoungOnes](https://youngones.com/]), the digital platform where you can book an on-call worker for your day job within 5 minutes. With freelancers throughout the Netherlands, you as a client are always and everywhere quickly provided with flexible staff. The Frontend is built in Next.js. Our state management is in React Query and for our styling we use TailwindCSS.
 
 ## 👨🏻‍💻 Tech Stack
 
