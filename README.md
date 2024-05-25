@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Mike ✨</h1>
 
-<h2 align="center">I'm a Lead Frontend Developer living in The Netherlands.</h2>
+<h2 align="center">I'm a Frontend Development Lead Passionate About Exceptional User Experiences & High-Quality Code</h2>
 
 <br />
 
-- 🌱 I’m currently learning Next.js.
-- 👨‍👩‍👧 I love my family, gaming and barbecuing.
 - 📫 You can connect with me on [Linkedin](https://www.linkedin.com/in/mikevpeeren/)
 - ⭐ Find me on:
    - Website - [Mike van Peeren](https://mikevpeeren.nl/)
@@ -14,7 +12,7 @@
 
 ## About me
  
-I work as a Lead Frontend Developer at [YoungOnes](https://youngones.com/]), the digital platform where you can book an on-call worker for your day job within 5 minutes. With freelancers throughout the Netherlands, you as a client are always and everywhere quickly provided with flexible staff. The Frontend is built in Next.js. Our state management is in React Query and for our styling we use TailwindCSS.
+My name is Mike van Peeren and I am driven by a passion for creating impactful applications with a social footprint, I aim to deliver results through meaningful work. My journey is fueled by a sense of purpose, and I'm eager to take on greater responsibilities, lead teams, and inspire others. I stay current with industry innovations, constantly learning from peers, and I believe in fostering growth and success for the teams I lead.
 
 ## 👨🏻‍💻 Tech Stack
 
