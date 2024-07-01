@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mike ✨</h1>
 
-<h2 align="center">I'm a Frontend Development Lead Passionate About Exceptional User Experiences & High-Quality Code</h2>
+<h2 align="center">I'm a Frontend Development Lead that is Passionate About Exceptional User Experiences & High-Quality Code</h2>
 
 <br />
 
