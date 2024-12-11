@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Mike ✨</h1>
+<h1 align="center">Hi, I'm Mike van Peeren ✨</h1>
 
-<h2 align="center">I'm a Frontend Development Lead that is Passionate About Exceptional User Experiences & High-Quality Code</h2>
+<h2 align="center">Passionate About Exceptional User Experiences & High-Quality Code|</h2>
 
 <br />
 
@@ -12,7 +12,7 @@
 
 ## About me
  
-My name is Mike van Peeren and I am driven by a passion for creating impactful applications with a social footprint, I aim to deliver results through meaningful work. My journey is fueled by a sense of purpose, and I'm eager to take on greater responsibilities, lead teams, and inspire others. I stay current with industry innovations, constantly learning from peers, and I believe in fostering growth and success for the teams I lead.
+I am driven by a passion for creating impactful applications with a social footprint, I aim to deliver results through meaningful work. My journey is fueled by a sense of purpose, and I'm eager to take on greater responsibilities, lead teams, and inspire others. I stay current with industry innovations, constantly learning from peers, and I believe in fostering growth and success for the teams I lead.
 
 ## 👨🏻‍💻 Tech Stack
 
